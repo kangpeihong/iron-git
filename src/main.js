@@ -10,6 +10,7 @@ import './utils/permission'
 Vue.config.productionTip = false
 
 // 123123123
+// new
 new Vue({
   store,
   router,
